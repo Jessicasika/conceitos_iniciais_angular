@@ -1,0 +1,25 @@
+{
+    "afetacao": [
+        {
+            "identificador": 1189104002,
+            "status": "OC-OCUPADO",
+            "sinc": "UP",
+            "tempo":"-",
+            "nivel":"-17.448"
+        },
+        {
+            "identificador": 1111668967597403,
+            "status": "OC-OCUPADO",
+            "sinc": "UP",
+            "tempo":"-",
+            "nivel":"-18.666"
+        },
+        {
+            "identificador": 11116689675974078,
+            "status": "OC-OCUPADO",
+            "sinc": "UP",
+            "tempo":"-",
+            "nivel":"-19.914"
+        }
+    ]
+}
